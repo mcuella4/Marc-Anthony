@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+Body {
+	   background-color: #c2a7f2;
+	   front-family: sans-serif;
+	   }  
+	  h1{
+	   color:#2a1959;
+	   border-bottom: 2px solid #2a1959;
+	   }
+	   h2{
+	   color:#474b94;
+	   front-size:1.2em;
+	   }
+  h2, p {
+	   margin-left:120px;
+	   }
