@@ -1,17 +1,24 @@
-@charset "utf-8";
+@charset "UTF-8";
 /* CSS Document */
-Body {
-	   background-color: #c2a7f2;
-	   front-family: sans-serif;
-	   }  
-	  h1{
-	   color:#2a1959;
-	   border-bottom: 2px solid #2a1959;
-	   }
-	   h2{
-	   color:#474b94;
-	   front-size:1.2em;
-	   }
-  h2, p {
-	   margin-left:120px;
-	   }
+body {
+	background-color: bisque;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin: 0 10%;
+}
+
+h2 {
+	color:darkred;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	border-bottom: 1px solid #472191;
+	padding-bottom: 30px;
+}
+
+em {
+	color: crimson;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
