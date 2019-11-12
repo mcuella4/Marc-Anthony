@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	color:#FFFFFF;
+	
+
+	background-image: url("hpageimg/deviantartcomartBooster s AnimateD Matrix 1920 x 1080 v2 391373966.gif");
+}
+#wrapper {
+	width:960px;
+	margin:0 auto;
+	border-bottom:5px solid;
+	border-bottom-color:#1A34FF;
+	
+	
+}
+.weekly {
+	width:300px;
+	float:left;
+	margin-right:30px;
+}
+
+#project {
+	width:300px;
+	float:left;
+}
+h1, h2, h3 {
+	text-align:center;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
+}
+h1 {
+	font-size:60px;
+	margin-bottom:-10px;
+}
+h2 {
+	font-size:15px;
+	margin-bottom:-18px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+h3 {
+	font-size:15px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+h4 {
+	font-size:30px;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	margin-bottom:-5px;
+}
+a:link {
+	color:#B0AF0E;
+	text-decoration:none;
+}
+a:visited {
+	color:#3689BB;
+}
+a:hover {
+	color:#C6CA1E;
+	text-decoration:underline;
+}
+a:active {
+	color:#3E28FF;
+}
+dt {
+	font-weight:bold;
+}
+
+a:link{
+	text-decoration: none;
+	color: #F30C10;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+a:visted{
+	color:#5607D8
+}
+a:hover{
+	background: #357C38;
+	text-decoration:underline;
+}
+a:active{
+	color:#E12031;
+	background: none;
+}
+
