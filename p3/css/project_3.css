@@ -1,0 +1,251 @@
+@charset "utf-8";
+/* CSS Document */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	background-color: black;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+#wrapper {
+	width:1234px;
+	margin:0 auto;
+}
+
+#top{
+	background-image: url("../img/galaxy_background.jpg");
+	background-repeat: none;
+	background-color: #B2AAAA;
+	height: 123px;
+	width:1234px;
+}
+
+
+#column {
+	background-color: #B2AAAA;
+	height: 27px;
+	width:1234px;
+}
+
+#columnli {
+	float:center;
+	margin-left: 250px;
+	margin-top: 20px;
+	width:1234px;
+}
+
+#logo img {
+	Width:107px;
+	height: 105px;
+	margin-left: 546px;
+}
+
+article {
+	background-color: #000000;
+	overflow: hidden;
+	width: 1233px;
+}
+.mainnav li{
+	display:inline;
+	list-style:none;
+	margin-left:277px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+}
+
+.welcome {
+	float: left;
+	background-color: black;
+	height: 560px;
+}
+
+.welcome h2{
+	margin-top: 160px;
+	margin-left: 180px;
+	color:white;
+	font-size: 85px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+.welcome p{
+	margin-top: 50px;
+	margin-left: 420px;
+	color: white;
+	font-size: 20px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+aside{
+	padding-top: 70px;
+	float: right;
+	margin-right: 165px;
+	background-color:black;
+	height: 490px;
+	width: 400px;
+}
+
+footer {
+		background-color: #959595;
+		height: 40px;
+		float: left;
+	width:1234px;
+	}
+
+footer p {
+	font-size: 16px;
+	margin-left: 530px;
+	margin-top: 10px
+}
+
+articletwo {
+	background-color:white;
+	overflow: hidden;
+	widows: 1233px;
+}
+
+#selfimage {
+	margin-top: 83px;
+	margin-left: 20px;
+}
+
+#selfimage img{
+	width: 622px;
+	height: 376px;
+}
+
+asidetwo{
+	float: right;
+	margin-right: 165px;
+	background-color: #000000;
+	height:547px;
+	width: 640px;
+}
+
+h2 {
+	float: left;
+	color: white;
+	font-size: 69px;
+	margin-left: 550px;
+	margin-top: 20px;
+	
+}
+
+p{
+	float: left;
+	color: white;
+	margin-top: 40px;
+	margin-right: 220px;
+	margin-left: 370px;
+	font-size: 20px;
+	
+}
+
+.image {
+	margin-left: 300px;
+	margin-top: 200px;
+}
+
+#photo {
+width: 48%;
+	float: left;
+	margin-top: 80px;
+	margin-left: 300px;
+}
+
+#aboutme {
+float: left;
+}
+.photosize{
+	width:600px;
+	height: 400px;
+	display: block;
+	float: right;
+}
+
+#aboutme h3 {
+	color: white;
+	font-size: 2em;
+	text-decoration: underline;
+	text:bold;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	margin-left: 500px;
+	margin-top: 50px;
+}
+#aboutme p {
+	float: left;
+	font-size: 25px;
+	margin-left: 200px;
+	margin-bottom: 200px;
+
+	
+}
+
+#contact{
+	float: left;
+}
+
+#contact h3{
+	color: white;
+	font-size: 2em;
+	text-decoration: underline;
+	text:bold;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	margin-left: 500px;
+	margin-top: 50px;
+	
+}
+
+#contact p{
+	margin-left: 400px;
+	margin-bottom: 30px;
+}
+
+#resume{
+	float: left;
+	color: white;
+	margin-left: 550px;
+}
+	
